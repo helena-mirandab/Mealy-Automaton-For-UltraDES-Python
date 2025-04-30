@@ -1,4 +1,4 @@
-MealyAutomaton Extension for UltraDES-Python
+## MealyAutomaton Extension for UltraDES-Python
 
 This module extends the UltraDES-Python library to support the creation and manipulation of Mealy-type automata, using event labels of the form input|output. It is fully compatible with the C#-based UltraDES core and designed for use in environments such as Google Colab via clr integration.
 
